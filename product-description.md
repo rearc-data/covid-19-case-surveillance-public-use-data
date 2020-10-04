@@ -1,6 +1,6 @@
 ### Covid-19 Case Surveillance Public Use Data | CDC Case Surveillance Task Force
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [COVID-19 Case Surveillance Public Use Data](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf).
 
 ## Main Overview
 This Data is provided by the Case Surveillance Task Force and Surveillance Review and Response Group (SRRG) within CDC’s COVID-19 Response.
