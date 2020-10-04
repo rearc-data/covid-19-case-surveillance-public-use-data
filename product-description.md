@@ -1,9 +1,9 @@
 ### Covid-19 Case Surveillance Public Use Data | CDC Case Surveillance Task Force
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/covid-19-case-surveillance-public-use-data](https://github.com/rearc-data/covid-19-case-surveillance-public-use-data).
 
 ## Main Overview
-This Data is provided by the Case Surveillance Task Force and Surveillance Review and Response Group (SRRG) within CDC’s COVID-19 Response.
+This data is provided by the Case Surveillance Task Force and Surveillance Review and Response Group (SRRG) within CDC’s COVID-19 Response. For more information, please visit [https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/index.html](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/index.html).
 
 This deidentified dataset includes demographic characteristics, exposure history, disease severity indicators and outcomes, clinical data, laboratory diagnostic test results, and comorbidities. All data elements can be found on the COVID-19 case [report form](www.cdc.gov/coronavirus/2019-ncov/downloads/pui-form.pdf).
 
@@ -14,7 +14,7 @@ The COVID-19 case surveillance system database includes patient-level data repor
 
 ## More Information
 - Source: [CDC Case Surveillance Task Force](https://www.bea.gov/)
-- [Covid-19 Case Surveillance Public Use Data | CDC Case Surveillance Task Force](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/index.html)
+- [Covid-19 Case Surveillance Public Use Data | CDC Case Surveillance Task Force](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf)
 - License: [Public Domain U.S. Government](https://www.usa.gov/government-works)
 - Frequency: Monthly
 - Format: CSV
