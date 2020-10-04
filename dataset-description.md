@@ -1,0 +1,1 @@
+This Data is provided by the Case Surveillance Task Force and Surveillance Review and Response Group (SRRG) within CDC’s COVID-19 Response. The COVID-19 case surveillance system database includes patient-level data reported to U.S. states and autonomous reporting entities, including New York City and the District of Columbia (D.C.), as well as U.S. territories and states. 
